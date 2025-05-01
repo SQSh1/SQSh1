@@ -14,7 +14,7 @@ HTML/CSS/JS      █████░░░░░░░░░░░░&#x20;
 
 <p align="center">
 
-<h2 align="center">🌐 SQ — Developer of Free Internet, Root Power & Digital Freedom</h2>
+<h2 align="center">🌐 SQ_Shabani of Free Internet, Root Power & Digital Freedom</h2>
 
 <p align="center">
   🧠 توسعه‌دهنده ابزارهای متن‌باز برای ایران، متخصص روت و ماژول‌های اندروید، با تمرکز بر <br>
@@ -33,7 +33,7 @@ HTML/CSS/JS      █████░░░░░░░░░░░░&#x20;
 
 ### 📫 ارتباط با من:
 - ایمیل کاری: `developer.sqsh@gmail.com`
-- تلگرام: `@sqsh_root` *(در صورت نیاز فعال خواهد شد)*
+- تلگرام: `@SQ_Shabani` *(در صورت نیاز فعال خواهد شد)*
 - همکاری در پروژه‌ها؟ فقط PR خوب بیار 💪
 
 ---

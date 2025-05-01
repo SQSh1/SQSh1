@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SQSh1/SQSh1/main/profile-banner.png" alt="SQ Banner" style="width:100%;"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SQSh1/SQSh1/main/profile-logo.png" width="150" alt="SQ Logo"/>
-</p>
 
 <h2 align="center">🌐 SQ — Developer of Free Internet, Root Power & Digital Freedom</h2>
 

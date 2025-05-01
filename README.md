@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SQSh1/SQSh1/main/profile-banner.png" alt="SQ Banner" style="width:100%;"/>
+</p>
 
-<!--
-**SQSh1/SQSh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SQSh1/SQSh1/main/profile-logo.png" width="150" alt="SQ Logo"/>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">🌐 SQ — Developer of Free Internet, Root Power & Digital Freedom</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🧠 توسعه‌دهنده ابزارهای متن‌باز برای ایران، متخصص روت و ماژول‌های اندروید، با تمرکز بر <br>
+  شخصی‌سازی، امنیت، و عبور از سانسور.
+</p>
+
+---
+
+### 🔧 پروژه‌های کلیدی:
+- 🔥 SQ-Firefox: نسخه شخصی‌سازی‌شده مرورگر با user-agent دلخواه و proxy داخلی.
+- 🌈 SQColorTuner: کنترل کامل رنگ و دمای نمایشگر با رابط گرافیکی.
+- 🛰️ PrivBrowse: مرورگر خصوصی با انتخاب دستی User-Agent و Timezone.
+- 🔓 ماژول‌های LSPosed و Magisk برای شخصی‌سازی سطح کرنل و framework.
+
+---
+
+### 📫 ارتباط با من:
+- ایمیل کاری: `developer.sqsh@gmail.com`
+- تلگرام: `@sqsh_root` *(در صورت نیاز فعال خواهد شد)*
+- همکاری در پروژه‌ها؟ فقط PR خوب بیار 💪
+
+---
+
+<p align="center">
+  <em>با افتخار ساخته شده با ❤️ توسط SQ و QT (ChatGPT)</em>
+</p>

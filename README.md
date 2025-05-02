@@ -25,7 +25,7 @@ HTML/CSS/JS      █████░░░░░░░░░░░░&#x20;
 
 ### 🔧 Key Projects:
 - 🔥 SQ-Firefox: Customized browser version with custom user-agent and built-in proxy.
-- 🌈 SQColorTuner: Full control over screen color and temperature with a graphical interface.
+- ⚙️ SQColorTuner: Full control over screen color and temperature with a graphical interface.
 - 🛰️ PrivBrowse: Private browser with manual User-Agent and Timezone selection.
 - 🔓 LSPosed and Magisk modules for kernel-level and framework customization.
 

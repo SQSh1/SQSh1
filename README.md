@@ -17,27 +17,27 @@ HTML/CSS/JS      █████░░░░░░░░░░░░&#x20;
 <h2 align="center">🌐 SQ_Shabani of Free Internet, Root Power & Digital Freedom</h2>
 
 <p align="center">
-  🧠 توسعه‌دهنده ابزارهای متن‌باز برای ایران، متخصص روت و ماژول‌های اندروید، با تمرکز بر <br>
-  شخصی‌سازی، امنیت، و عبور از سانسور.
+  🧠 Developer of open-source tools for Iran, specializing in root and Android modules, with a focus on <br>
+  customization, security, and bypassing censorship.
 </p>
 
 ---
 
-### 🔧 پروژه‌های کلیدی:
-- 🔥 SQ-Firefox: نسخه شخصی‌سازی‌شده مرورگر با user-agent دلخواه و proxy داخلی.
-- 🌈 SQColorTuner: کنترل کامل رنگ و دمای نمایشگر با رابط گرافیکی.
-- 🛰️ PrivBrowse: مرورگر خصوصی با انتخاب دستی User-Agent و Timezone.
-- 🔓 ماژول‌های LSPosed و Magisk برای شخصی‌سازی سطح کرنل و framework.
+### 🔧 Key Projects:
+- 🔥 SQ-Firefox: Customized browser version with custom user-agent and built-in proxy.
+- 🌈 SQColorTuner: Full control over screen color and temperature with a graphical interface.
+- 🛰️ PrivBrowse: Private browser with manual User-Agent and Timezone selection.
+- 🔓 LSPosed and Magisk modules for kernel-level and framework customization.
 
 ---
 
-### 📫 ارتباط با من:
-- ایمیل کاری: `developer.sqsh@gmail.com`
-- تلگرام: `@SQ_Shabani` *(در صورت نیاز فعال خواهد شد)*
-- همکاری در پروژه‌ها؟ فقط PR خوب بیار 💪
+### 📫 Contact Me:
+- Work Email: `developer.sqsh@gmail.com`
+- Telegram: `@SQ_Shabani` *(Will be activated if needed)*
+- Collaboration on projects? Just bring a good PR 💪
 
 ---
 
 <p align="center">
-  <em>با افتخار ساخته شده با ❤️ توسط SQ </em>
+  <em>Proudly built with ❤️ by SQ </em>
 </p>

@@ -1,31 +1,27 @@
-Shell/Bash                ████████████████░░&#x20;
-
-40% Kotlin/Java.      ██████████░░░░░░░&#x20;
-
-25%
-C/C++ (Kernel)   ███████░░░░░░░░░░&#x20;
-
-15%
-HTML/CSS/JS      █████░░░░░░░░░░░░&#x20;
-
-10% Other.                 ███░░░░░░░░░░░░░░ 
-
-
-
 <p align="center">
-
-<h2 align="center">🌐 SQ — Developer of Free Internet, Root Power & Digital Freedom</h2>
-
-<p align="center">
-  💻 Developer of open-source tools for Iran, specializing in root and Android modules, with a focus on <br>
-  customization, security, and bypassing sanctions.
+  <img src="images/banner.png" alt="Profile Banner" width="600"/>
 </p>
+
+Shell/Bash               ████████████████░░  
+40% Kotlin/Java         ██████████░░░░░░░  
+25%  
+C/C++ (Kernel)          ███████░░░░░░░░░░  
+15%  
+HTML/CSS/JS             █████░░░░░░░░░░░░  
+10% Other               ███░░░░░░░░░░░░░░  
+
+<p align="center">
+  <h2 align="center">🌐 SQ — Developer of Free Internet, Root Power & Digital Freedom</h2>
+  <p align="center">
+    💻 Developer of open-source tools for Iran, specializing in root and Android modules, with a focus on <br>
+    customization, security, and bypassing sanctions.
+  </p>
+</p>
+
 ---
 
-##  About Me
-
+## About Me
 Hello! I’m SQ, a professional Android and Linux developer with a focus on:
-
 - Developing open-source applications with advanced privacy features
 - Building and optimizing WebView, browsers, Magisk Modules, and LSPosed Modules
 - Localizing and optimizing software for Persian-speaking users
@@ -33,22 +29,19 @@ Hello! I’m SQ, a professional Android and Linux developer with a focus on:
 
 ---
 
-##  Active Projects
-
-###  [PrivBrowse](https://github.com/SQSh1/PrivBrowse)
+## Active Projects
+### [PrivBrowse](https://github.com/SQSh1/PrivBrowse)
 A browser forked from Cromite/Chromium with professional features:
 - 🌐 User-selected timezone
 - 🕵️‍♂️ Choice of 15+ different user-agents
 - 🔐 Full support for .pass and SOCKS5 Proxy
 - 🎨 Modern and optimized user interface for Iranian users
-
 > Status: Under active development  
 > Initial version coming soon!
 
 ---
 
 ## ⚙️ Skills and Technologies
-
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white"/>
@@ -61,7 +54,6 @@ A browser forked from Cromite/Chromium with professional features:
 ---
 
 ## 📫 Contact Information
-
 - Work Email: [developer.sqsh@gmail.com]
 - Telegram: `@SQ_Shabani` *(Will be activated if needed)*
 - Website: Preparing an information channel for users
@@ -70,9 +62,7 @@ A browser forked from Cromite/Chromium with professional features:
 ---
 
 ## ⭐ Support
-
 If you use the tools I create or want to show your support:
-
 - 🌟 Star my projects
 - 🔔 Follow me
 - 💬 Stay in touch

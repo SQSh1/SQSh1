@@ -2,13 +2,13 @@
   <img src="images/banner.png" alt="Profile Banner" width="600"/>
 </p>
 
-Shell/Bash               ████████████████░░  
-40% Kotlin/Java         ██████████░░░░░░░  
-25%  
-C/C++ (Kernel)          ███████░░░░░░░░░░  
-15%  
-HTML/CSS/JS             █████░░░░░░░░░░░░  
-10% Other               ███░░░░░░░░░░░░░░  
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell%2FBash-40%25-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kotlin%2FJava-25%25-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B%20(Kernel)-15%25-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-10%25-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Other-5%25-gray?style=flat-square"/>
+</p>
 
 <p align="center">
   <h2 align="center">🌐 SQ — Developer of Free Internet, Root Power & Digital Freedom</h2>

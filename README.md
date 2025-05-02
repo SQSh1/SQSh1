@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Profile Banner" width="600"/>
+  <img src="images/banner.png" alt="Profile Banner" width="450"/>
 </p>
 
 <p align="center">
@@ -10,27 +10,25 @@
   <img src="https://img.shields.io/badge/Other-5%25-gray?style=flat-square"/>
 </p>
 
+# SQ - Developer of Free Internet, Root Power & Digital Freedom
 <p align="center">
-  <h2 align="center">🌐 SQ — Developer of Free Internet, Root Power & Digital Freedom</h2>
-  <p align="center">
-    💻 Developer of open-source tools for Iran, specializing in root and Android modules, with a focus on <br>
-    customization, security, and bypassing sanctions.
-  </p>
+  💻 Developer of open-source tools for Iran, specializing in root and Android modules, with a focus on <br>
+  customization, security, and bypassing sanctions.
 </p>
 
 ---
 
-## About Me
-Hello! I’m SQ, a professional Android and Linux developer with a focus on:
+# About Me
+Hello! I’m <span style="color: #FFD700">SQ</span>, a professional Android and Linux developer with a focus on:
 - Developing open-source applications with advanced privacy features
 - Building and optimizing WebView, browsers, Magisk Modules, and LSPosed Modules
 - Localizing and optimizing software for Persian-speaking users
 - Striving to bypass sanctions and help users access the internet freely
 
----
+<br>
 
-## Active Projects
-### [PrivBrowse](https://github.com/SQSh1/PrivBrowse)
+# Active Projects
+## <span style="color: #FFD700">PrivBrowse</span>
 A browser forked from Cromite/Chromium with professional features:
 - 🌐 User-selected timezone
 - 🕵️‍♂️ Choice of 15+ different user-agents
@@ -39,9 +37,9 @@ A browser forked from Cromite/Chromium with professional features:
 > Status: Under active development  
 > Initial version coming soon!
 
----
+<br>
 
-## ⚙️ Skills and Technologies
+# Skills and Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white"/>
@@ -51,22 +49,22 @@ A browser forked from Cromite/Chromium with professional features:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+<br>
 
-## 📫 Contact Information
+# Contact Information
 - Work Email: [developer.sqsh@gmail.com]
 - Telegram: `@SQ_Shabani` *(Will be activated if needed)*
 - Website: Preparing an information channel for users
 - Collaboration on projects? Just bring a good PR 💪
 
----
+<br>
 
-## ⭐ Support
+# Support
 If you use the tools I create or want to show your support:
 - 🌟 Star my projects
 - 🔔 Follow me
 - 💬 Stay in touch
 
----
+<br>
 
-<p align="center"><b>In the path to digital freedom, no wall is taller than determination.</b></p>
+<p align="center"><b><span style="color: #FFD700">In the path to digital freedom, no wall is taller than determination.</span></b></p>

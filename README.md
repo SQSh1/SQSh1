@@ -35,7 +35,7 @@ Hello! I’m SQ, a professional Android and Linux developer with a focus on:
 
 ##  Active Projects
 
-### 🔒 [PrivBrowse](https://github.com/SQSh1/PrivBrowse)
+###  [PrivBrowse](https://github.com/SQSh1/PrivBrowse)
 A browser forked from Cromite/Chromium with professional features:
 - 🌐 User-selected timezone
 - 🕵️‍♂️ Choice of 15+ different user-agents
@@ -47,7 +47,7 @@ A browser forked from Cromite/Chromium with professional features:
 
 ---
 
-## 🛠️ Skills and Technologies
+## ⚙️ Skills and Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>

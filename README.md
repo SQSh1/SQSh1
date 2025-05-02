@@ -17,12 +17,12 @@ HTML/CSS/JS      █████░░░░░░░░░░░░&#x20;
 <h2 align="center">🌐 SQ — Developer of Free Internet, Root Power & Digital Freedom</h2>
 
 <p align="center">
-  🧠 Developer of open-source tools for Iran, specializing in root and Android modules, with a focus on <br>
+  💻 Developer of open-source tools for Iran, specializing in root and Android modules, with a focus on <br>
   customization, security, and bypassing sanctions.
 </p>
 ---
 
-## 🧠 About Me
+##  About Me
 
 Hello! I’m SQ, a professional Android and Linux developer with a focus on:
 
@@ -33,7 +33,7 @@ Hello! I’m SQ, a professional Android and Linux developer with a focus on:
 
 ---
 
-## 🚀 Active Projects
+##  Active Projects
 
 ### 🔒 [PrivBrowse](https://github.com/SQSh1/PrivBrowse)
 A browser forked from Cromite/Chromium with professional features:

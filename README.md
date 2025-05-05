@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Other-5%25-gray?style=flat-square"/>
 </p>
 
-# SQ -SQ - Developer of Free Internet, Root Power & Digital Freedom
+# SQ - Developer of Free Internet, Root Power & Digital Freedom
 Developer of open-source tools for Iran, specializing in root and Android modules, with a focus on customization, security, and bypassing sanctions.  
 [ Persian 🇮🇷](https://github.com/SQSh1/SQSh1/blob/main/README-fa.md)
 </p>

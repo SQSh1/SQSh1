@@ -26,7 +26,7 @@ Hi! I'm <span style="color: #FFD700">SQ</span>, a developer with deep experience
 - Building and optimizing WebView engines, browsers, and system modules
 - Creating custom Magisk and LSPosed modules for advanced control
 - Localizing and tailoring software for Persian users
-- Fighting censorship and helping people access the open web freely
+- Fighting sanctions and helping people to access the open web freely
 
 ---
 

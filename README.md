@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Profile Banner" width="450"/>
+  <img src="images/banner.png" alt="SQ Banner" width="450"/>
 </p>
 
 <p align="center">
@@ -10,35 +10,43 @@
   <img src="https://img.shields.io/badge/Other-5%25-gray?style=flat-square"/>
 </p>
 
-# SQ - Developer of Free Internet, Root Power & Digital Freedom
-Developer of open-source tools for Iran, specializing in root and Android modules, with a focus on customization, security, and bypassing sanctions.  
-[ Persian 🇮🇷](https://github.com/SQSh1/SQSh1/blob/main/README-fa.md)
+<h1 align="center">🛡️ SQ — Developer of Root Power, Free Internet & Digital Freedom</h1>
+<p align="center">
+Open-source software creator focused on Android customization, privacy tools, and internet freedom for Iranian users.  
+<a href="https://github.com/SQSh1/SQSh1/blob/main/README-fa.md">[ فارسی 🇮🇷 ]</a>
 </p>
 
 ---
 
-# About Me
-Hello! I’m <span style="color: #FFD700">SQ</span>, a professional Android and Linux developer with a focus on:
-- Developing open-source applications with advanced privacy features
-- Building and optimizing WebView, browsers, Magisk Modules, and LSPosed Modules
-- Localizing and optimizing software for Persian-speaking users
-- Striving to bypass sanctions and help users access the internet freely
+## 🧑‍💻 About Me
 
-<br>
+Hi! I'm <span style="color: #FFD700">SQ</span>, a developer with deep experience in Android and Linux ecosystems, working on:
 
-# Active Projects
-## <span style="color: #FFD700">PrivBrowse</span>
-A browser forked from Cromite/Chromium with professional features:
-- 🌐 User-selected timezone
-- 🕵️‍♂️ Choice of 15+ different user-agents
-- 🔐 Full support for .pass and SOCKS5 Proxy
-- 🎨 Modern and optimized user interface for Iranian users
-> Status: Under active development  
-> Initial version coming soon!
+- Developing privacy-first open-source tools
+- Building and optimizing WebView engines, browsers, and system modules
+- Creating custom Magisk and LSPosed modules for advanced control
+- Localizing and tailoring software for Persian users
+- Fighting censorship and helping people access the open web freely
 
-<br>
+---
 
-# Skills and Technologies
+## 🚀 Active Projects
+
+### 🌐 PrivBrowse
+
+A Chromium-based privacy browser tailored for Iranian users with powerful customization:
+
+- 🕒 User-controlled timezone spoofing
+- 🕵️‍♂️ Over 15 switchable user-agents (Safari, Firefox, mobile, desktop, etc.)
+- 🔐 Seamless support for SOCKS5 proxies and `.pass` tunneling
+- 🇮🇷 UI and UX customized for Persian language and usability
+> 🛠 Status: Under active development  
+> ⏳ Initial release coming soon!
+
+---
+
+## 🛠 Skills & Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white"/>
@@ -48,22 +56,23 @@ A browser forked from Cromite/Chromium with professional features:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<br>
+---
 
-# Contact Information
-- Work Email: [developer.sqsh@gmail.com]
-- Telegram: `@SQ_Shabani` *(Will be activated if needed)*
-- Website: Preparing an information channel for users
-- Collaboration on projects? Just bring a good PR 💪
+## 📬 Contact
 
-<br>
+- Email: [developer.sqsh@gmail.com](mailto:developer.sqsh@gmail.com)
+- Telegram: `@SQ_Shabani` *(activated as needed)*
+- Website: Coming soon — building an independent update channel
+- Collaboration? Bring a solid PR or open a detailed issue 💪
 
-# Support
-If you use the tools I create or want to show your support:
-- 🌟 Star my projects
-- 🔔 Follow me
-- 💬 Stay in touch
+---
 
-<br>
+## ☕ Support My Work
 
-<p align="center"><b><span style="color: #FFD700">In the path to digital freedom, no wall is taller than determination.</span></b></p>
+If you find my tools useful or want to support digital freedom:
+
+- 🌟 Star my repositories
+- 👥 Follow for updates
+- 💬 Reach out anytime
+
+<p align="center"><b><span style="color: #FFD700">On the path to digital freedom, no wall stands taller than willpower.</span></b></p>

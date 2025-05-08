@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="SQ Banner" width="450"/>
+  <img src="images/banner.png" alt="بنر SQ" width="450"/>
 </p>
 
 <p align="center">
@@ -10,50 +10,35 @@
   <img src="https:                                                           
 </p>
 
-<h1 align="center"> SQ — Developer of Root Power, Free Internet & Digital Freedom</h1>
+<h1 align="center"> SQ — توسعه‌دهنده قدرت ریشه، اینترنت آزاد و آزادی دیجیتال</h1>
 <p align="center">
-Open-source software creator focused on Android customization, privacy tools, and internet freedom.  
-<a href="https://github.com/SQSh1/SQSh1/blob/main/README-fa.md">[ فارسی ]</a>
+توسعه‌دهنده نرم‌افزارهای متن‌باز متمرکز بر سفارشی‌سازی اندروید، ابزارهای حریم خصوصی و آزادی اینترنت.  
+<a href="https://github.com/SQSh1/SQSh1/blob/main/README.md">[ English ]</a>
 </p>
 
-## About Me
-Hi! I'm SQ, a developer with expertise in Android and Linux ecosystems. I'm passionate about:
+## درباره من
+سلام! من SQ هستم، یک توسعه‌دهنده با تخصص در اکوسیستم‌های اندروید و لینوکس. من علاقه‌مند به:
 
-* Developing privacy-first open-source tools
-* Building and optimizing WebView engines, browsers, and system modules
-* Creating custom Magisk and LSPosed modules
-* Localizing software for Persian users
-* Fighting sanctions and promoting digital freedom
+* توسعه ابزارهای متن‌باز حریم خصوصی
+* ساخت و بهینه‌سازی موتورهای WebView، مرورگرها و ماژول‌های سیستمی
+* ایجاد ماژول‌های سفارشی Magisk و LSPosed
+* بومی‌سازی نرم‌افزار برای کاربران فارسی‌زبان
+* مبارزه با تحریم‌ها و ترویج آزادی دیجیتال
 
-## Active Projects
+## پروژه‌های فعال
 ### PrivBrowse
-A Chromium-based privacy browser for Iranian users:
+یک مرورگر حریم خصوصی مبتنی بر Chromium برای کاربران ایرانی:
 
-* User-controlled timezone spoofing
-* 15+ switchable user-agents
-* Seamless SOCKS5 proxy support
-* Customized UI/UX for Persian language and usability
-> Status: Under active development  
-> Initial release coming soon!
+* کنترل زمان منطقه‌ای توسط کاربر
+* 15+ عامل کاربری قابل تعویض
+* پشتیبانی یکپارچه از پروکسی SOCKS5
+* رابط کاربری سفارشی‌شده برای زبان و کاربری فارسی
+> وضعیت: در حال توسعه فعال  
+> انتشار اولیه به زودی!
 
-## Skills & Technologies
+## مهارت‌ها و فناوری‌ها
 <p align="center">
   <img src="https:                                                                                         
   <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https:                                                                                         
-  <img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
-  <img src="https:                                                                                     
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-## Contact
-* Email: [developer.sqsh@gmail.com](mailto:developer.sqsh@gmail.com)
-* Telegram: `@SQ_Shabani`
-* Website: Coming soon
-
-## Support My Work
-* Star my repositories
-* Follow for updates
-* Reach out anytime
-
-<p align="center"><b>On the path to digital freedom, no wall stands taller than willpower.</b></p>
+  <img src="https://img.shields.io/badge/Ch

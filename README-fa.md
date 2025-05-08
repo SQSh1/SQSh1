@@ -3,76 +3,57 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shell%2FBash-۴۰٪-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Kotlin%2FJava-۲۵٪-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B%20(Kernel)-۱۵٪-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-۱۰٪-yellow?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Other-۵٪-gray?style=flat-square"/>
+  <img src="https:                                                                                                        
+  <img src="https://img.shields.io/badge/Kotlin%2FJava-25%25-blue?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https:                                                                                                           
+  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-10%25-yellow?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https:                                                           
 </p>
 
-<h1 align="center">🛡️ SQ — توسعه‌دهنده‌ی قدرت روت، اینترنت آزاد و آزادی دیجیتال</h1>
+<h1 align="center"> SQ — Developer of Root Power, Free Internet & Digital Freedom</h1>
 <p align="center">
-سازنده‌ی نرم‌افزارهای متن‌باز با تمرکز بر شخصی‌سازی اندروید، حریم خصوصی و دسترسی آزاد برای کاربران ایرانی.  
-<a href="https://github.com/SQSh1/SQSh1/blob/main/README.md">[ English 🇺🇸 ]</a>
+Open-source software creator focused on Android customization, privacy tools, and internet freedom.  
+<a href="https://github.com/SQSh1/SQSh1/blob/main/README-fa.md">[ فارسی ]</a>
 </p>
 
----
+## About Me
+Hi! I'm SQ, a developer with expertise in Android and Linux ecosystems. I'm passionate about:
 
-## 🧑‍💻 درباره من
+* Developing privacy-first open-source tools
+* Building and optimizing WebView engines, browsers, and system modules
+* Creating custom Magisk and LSPosed modules
+* Localizing software for Persian users
+* Fighting sanctions and promoting digital freedom
 
-سلام! من <span style="color: #FFD700">اس‌کیو</span> هستم — توسعه‌دهنده‌ای حرفه‌ای در دنیای اندروید و لینوکس با تمرکز بر:
+## Active Projects
+### PrivBrowse
+A Chromium-based privacy browser for Iranian users:
 
-- ساخت ابزارهای متن‌باز با اولویت حفظ حریم خصوصی
-- توسعه و بهینه‌سازی WebView، مرورگرها و ماژول‌های سیستمی
-- طراحی ماژول‌های Magisk و LSPosed برای کنترل پیشرفته سیستم
-- بومی‌سازی نرم‌افزارها برای کاربران فارسی‌زبان
-- مبارزه با تحریم و فراهم‌سازی دسترسی آزاد به اینترنت برای همه
+* User-controlled timezone spoofing
+* 15+ switchable user-agents
+* Seamless SOCKS5 proxy support
+* Customized UI/UX for Persian language and usability
+> Status: Under active development  
+> Initial release coming soon!
 
----
-
-## 🚀 پروژه‌های فعال
-
-### 🌐 PrivBrowse
-
-مرورگری بر پایه‌ی Chromium با تمرکز بر امنیت، آزادی و تجربه‌ی ایرانی:
-
-- 🕒 امکان تغییر و شبیه‌سازی منطقه زمانی (Timezone)
-- 🕵️‍♂️ بیش از ۱۵ یوزر-ایجنت مختلف قابل انتخاب (Safari، Firefox، موبایل و دسکتاپ)
-- 🔐 پشتیبانی کامل از پروکسی SOCKS5 و تونل `.pass`
-- 🇮🇷 رابط کاربری بهینه‌شده و فارسی برای استفاده آسان در ایران  
-> 🛠 وضعیت: در حال توسعه‌ی فعال  
-> ⏳ نسخه اولیه به‌زودی منتشر می‌شود!
-
----
-
-## 🛠 مهارت‌ها و تکنولوژی‌ها
-
-<p align="center" dir="rtl">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+## Skills & Technologies
+<p align="center">
+  <img src="https:                                                                                         
   <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LSPosed-1E90FF?style=for-the-badge"/>
+  <img src="https:                                                                                         
   <img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https:                                                                                     
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+## Contact
+* Email: [developer.sqsh@gmail.com](mailto:developer.sqsh@gmail.com)
+* Telegram: `@SQ_Shabani`
+* Website: Coming soon
 
-## 📬 راه‌های ارتباطی
+## Support My Work
+* Star my repositories
+* Follow for updates
+* Reach out anytime
 
-- ایمیل کاری: [developer.sqsh@gmail.com](mailto:developer.sqsh@gmail.com)
-- تلگرام: `@SQ_Shabani` *(در صورت نیاز فعال می‌شود)*
-- وب‌سایت: در حال آماده‌سازی برای ایجاد کانال اطلاع‌رسانی مستقل
-- همکاری؟ فقط کافیه یه Pull Request قوی داشته باشی 💪
-
----
-
-## ☕ حمایت از من
-
-اگه از ابزارهایی که می‌سازم استفاده می‌کنی یا آزادی دیجیتال برات مهمه:
-
-- 🌟 پروژه‌ها رو ستاره بزن
-- 👥 دنبال کن برای اطلاع از آپدیت‌ها
-- 💬 هر وقت خواستی پیام بده یا همکاری پیشنهاد بده
-
-<p align="center"><b><span style="color: #FFD700">در مسیر آزادی دیجیتال، هیچ دیواری بلندتر از اراده نیست.</span></b></p>
+<p align="center"><b>On the path to digital freedom, no wall stands taller than willpower.</b></p>

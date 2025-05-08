@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Other-5%25-gray?style=flat-square"/>
 </p>
 
-<h1 align="center">🛡️ SQ — Developer of Root Power, Free Internet & Digital Freedom</h1>
+<h1 align="center"> SQ — Developer of Root Power, Free Internet & Digital Freedom</h1>
 <p align="center">
 Open-source software creator focused on Android customization, privacy tools, and internet freedom for Iranian users.  
 <a href="https://github.com/SQSh1/SQSh1/blob/main/README-fa.md">[ فارسی 🇮🇷 ]</a>
@@ -18,7 +18,7 @@ Open-source software creator focused on Android customization, privacy tools, an
 
 ---
 
-## 🧑‍💻 About Me
+## • About Me
 
 Hi! I'm <span style="color: #FFD700">SQ</span>, a developer with deep experience in Android and Linux ecosystems, working on:
 
@@ -30,22 +30,22 @@ Hi! I'm <span style="color: #FFD700">SQ</span>, a developer with deep experience
 
 ---
 
-## 🚀 Active Projects
+## • Active Projects
 
-### 🌐 PrivBrowse
+### • PrivBrowse
 
 A Chromium-based privacy browser tailored for Iranian users with powerful customization:
 
-- 🕒 User-controlled timezone spoofing
-- 🕵️‍♂️ Over 15 switchable user-agents (Safari, Firefox, mobile, desktop, etc.)
-- 🔐 Seamless support for SOCKS5 proxies and `.pass` tunneling
+- • User-controlled timezone spoofing
+- • Over 15 switchable user-agents (Safari, Firefox, mobile, desktop, etc.)
+- • Seamless support for SOCKS5 proxies and `.pass` tunneling
 - 🇮🇷 UI and UX customized for Persian language and usability
-> 🛠 Status: Under active development  
-> ⏳ Initial release coming soon!
+> • Status: Under active development  
+> • Initial release coming soon!
 
 ---
 
-## 🛠 Skills & Technologies
+## • Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -71,8 +71,8 @@ A Chromium-based privacy browser tailored for Iranian users with powerful custom
 
 If you find my tools useful or want to support digital freedom:
 
-- 🌟 Star my repositories
-- 👥 Follow for updates
-- 💬 Reach out anytime
+- • Star my repositories
+- • Follow for updates
+- • Reach out anytime
 
 <p align="center"><b><span style="color: #FFD700">On the path to digital freedom, no wall stands taller than willpower.</span></b></p>

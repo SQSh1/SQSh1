@@ -1,5 +1,23 @@
 <p align="center">
   <img src="images/banner.png" alt="SQ Banner" width="450"/>
+  <div class="banner-animation">
+    <svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="50" cy="50" r="20" fill="none" stroke="#1E90FF" stroke-width="2">
+        <animate attributeName="r" from="20" to="30" dur="1.5s" repeatCount="indefinite" />
+      </circle>
+      <path d="M50 50 L80 20" stroke="#FFD700" stroke-width="2" stroke-linecap="round">
+        <animate attributeName="stroke-dasharray" from="0 30" to="30 30" dur="1s" repeatCount="indefinite" />
+      </path>
+      <path d="M50 50 L20 80" stroke="#FFD700" stroke-width="2" stroke-linecap="round">
+        <animate attributeName="stroke-dasharray" from="0 30" to="30 30" dur="1.2s" repeatCount="indefinite" />
+      </path>
+      <g transform="translate(150, 50)">
+        <rect x="-10" y="-10" width="20" height="20" fill="#4285F4">
+          <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="3s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </svg>
+  </div>
 </p>
 
 <p align="center">
@@ -34,16 +52,21 @@
 ---
 
 ## • پروژه‌های شخصی و فعال
-### • yt-dlp-link-maker
-### • yt-dlp-api-server
-### • yt-dlp-telegram-bot
-### • TelePro
-### • Kernel
-### • cromite-magisk
-### • webview_myket_video
+<p align="center">
+  <span class="project-item">yt-dlp-link-maker <svg width="20" height="20"><path d="M10 2 L18 10 L10 18" fill="none" stroke="#1E90FF" stroke-width="2"><animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/></svg></span><br>
+  <span class="project-item">yt-dlp-api-server <svg width="20" height="20"><circle cx="10" cy="10" r="5" fill="#FFD700"><animate attributeName="r" from="5" to="7" dur="1s" repeatCount="indefinite"/></svg></span><br>
+  <span class="project-item">yt-dlp-telegram-bot <svg width="20" height="20"><path d="M5 5 L15 15" stroke="#4285F4" stroke-width="2"><animate attributeName="stroke-dasharray" from="0 20" to="20 20" dur="1s" repeatCount="indefinite"/></svg></span><br>
+  <span class="project-item">TelePro <svg width="20" height="20"><rect x="5" y="5" width="10" height="10" fill="#00AF9C"><animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/></svg></span><br>
+  <span class="project-item">Kernel <svg width="20" height="20"><circle cx="10" cy="10" r="5" fill="#FCC624"><animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="2s" repeatCount="indefinite"/></svg></span><br>
+  <span class="project-item">cromite-magisk <svg width="20" height="20"><path d="M5 15 L15 5" stroke="#3DDC84" stroke-width="2"><animate attributeName="stroke-dasharray" from="0 20" to="20 20" dur="1.5s" repeatCount="indefinite"/></svg></span><br>
+  <span class="project-item">webview_myket_video <svg width="20" height="20"><rect x="5" y="5" width="10" height="10" fill="#4285F4"><animate attributeName="height" from="10" to="15" dur="1s" repeatCount="indefinite"/></svg></span>
+</p>
+
 ## • پروژه‌های فورک و FOSS
-### • oblivion
-## • یکی از پروژه‌های درجه یک ایرانی و پر طرفدار https://github.com/bepass-org/oblivion
+<p align="center">
+  <span class="fork-item">oblivion <svg width="20" height="20"><path d="M5 10 Q10 5 15 10" fill="none" stroke="#FFD700" stroke-width="2"><animate attributeName="stroke-dasharray" from="0 20" to="20 20" dur="2s" repeatCount="indefinite"/></svg></span><br>
+  <a href="https://github.com/bepass-org/oblivion">یکی از پروژه‌های درجه یک ایرانی و پر طرفدار</a>
+</p>
 
 ## • پروژه Cromite فورک Bromite با تمرکز حریم خصوصی کاربر و تنظیمات کاربردی، تغییر Time Zone، تغییر User Agint, اعمال User Script, بلاک Ads
 ### • https://github.com/bromite/bromite - https://github.com/uazo/cromite
@@ -57,29 +80,33 @@
 - 🇮🇷 رابط کاربری بهینه‌شده و فارسی برای استفاده آسان در ایران  
 > • وضعیت: در حال توسعه‌ی فعال  
 > • نسخه اولیه به‌زودی منتشر می‌شود!
+
 ### • yt-dlp-serverless
 ایجاد پروژه پیشرفته دانلودر (Advanced.html) برای هزینه‌های خرید و نگهداری سرور دنبال اسپانسر هستم در آینده نزدیک بسازم. افزودن سرور بک‌اند (Backend) و خروجی فرمت‌های واقعی با فرانت‌اند (frontend) یکبار برای همیشه از دانلودر بی‌نیاز باشید. 
+
 ---
 
 ## • مهارت‌ها و تکنولوژی‌ها
 
 <p align="center" dir="rtl">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LSPosed-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" class="skill-icon" style="animation: pulse 2s infinite"/>
+  <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white" class="skill-icon" style="animation: rotate 3s infinite linear"/>
+  <img src="https://img.shields.io/badge/LSPosed-1E90FF?style=for-the-badge" class="skill-icon" style="animation: fade 1.5s infinite"/>
+  <img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" class="skill-icon" style="animation: pulse 2.5s infinite"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" class="skill-icon" style="animation: rotate 4s infinite linear"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" class="skill-icon" style="animation: fade 2s infinite"/>
 </p>
 
 ---
 
 ## 📬 راه‌های ارتباطی
 
-- ایمیل کاری: [developer.sqsh@gmail.com](mailto:developer.sqsh@gmail.com)
-- تلگرام: `@SQ_Shabani` *(در صورت نیاز فعال می‌شود)*
-- وب‌سایت: در حال آماده‌سازی برای ایجاد کانال اطلاع‌رسانی مستقل
-- همکاری؟ فقط کافیه یه Pull Request قوی داشته باشی 💪
+<p align="center" dir="rtl">
+  <span class="type-animation">ایمیل کاری: <a href="mailto:developer.sqsh@gmail.com">developer.sqsh@gmail.com</a></span><br>
+  <span class="type-animation">تلگرام: <a href="https://t.me/SQ_Shabani">@SQ_Shabani</a> *(در صورت نیاز فعال می‌شود)*</span><br>
+  <span class="type-animation">وب‌سایت: در حال آماده‌سازی</span><br>
+  <span class="type-animation">همکاری؟ فقط کافیه یه Pull Request قوی داشته باشی 💪</span>
+</p>
 
 ---
 
@@ -92,3 +119,61 @@
 - • هر وقت خواستی پیام بده یا همکاری پیشنهاد بده
 
 <p align="center"><b><span style="color: #FFD700">در مسیر آزادی دیجیتال، هیچ دیواری بلندتر از اراده نیست.</span></b></p>
+
+<style>
+.banner-animation {
+  position: relative;
+  animation: fadeIn 2s ease-in-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.project-item {
+  display: inline-block;
+  margin: 5px;
+  animation: fadeInProject 1s ease-in-out;
+}
+@keyframes fadeInProject {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fork-item {
+  display: inline-block;
+  margin: 5px;
+  animation: wave 2s infinite;
+}
+@keyframes wave {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+  100% { transform: translateY(0); }
+}
+.skill-icon {
+  margin: 5px;
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@keyframes fade {
+  0% { opacity: 0.5; }
+  50% { opacity: 1; }
+  100% { opacity: 0.5; }
+}
+.type-animation {
+  opacity: 0;
+  animation: type 2s forwards;
+}
+@keyframes type {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+.type-animation:nth-child(2) { animation-delay: 0.5s; }
+.type-animation:nth-child(3) { animation-delay: 1s; }
+.type-animation:nth-child(4) { animation-delay: 1.5s; }
+</style>

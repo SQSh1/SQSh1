@@ -52,6 +52,7 @@
 ---
 
 ## • پروژه‌های شخصی و فعال
+## • پروژه‌های شخصی و فعال
 <p align="center">
   <span class="project-item">yt-dlp-link-maker <svg width="20" height="20"><path d="M10 2 L18 10 L10 18" fill="none" stroke="#1E90FF" stroke-width="2"><animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/></svg></span><br>
   <span class="project-item">yt-dlp-api-server <svg width="20" height="20"><circle cx="10" cy="10" r="5" fill="#FFD700"><animate attributeName="r" from="5" to="7" dur="1s" repeatCount="indefinite"/></svg></span><br>
@@ -59,7 +60,8 @@
   <span class="project-item">TelePro <svg width="20" height="20"><rect x="5" y="5" width="10" height="10" fill="#00AF9C"><animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/></svg></span><br>
   <span class="project-item">Kernel <svg width="20" height="20"><circle cx="10" cy="10" r="5" fill="#FCC624"><animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="2s" repeatCount="indefinite"/></svg></span><br>
   <span class="project-item">cromite-magisk <svg width="20" height="20"><path d="M5 15 L15 5" stroke="#3DDC84" stroke-width="2"><animate attributeName="stroke-dasharray" from="0 20" to="20 20" dur="1.5s" repeatCount="indefinite"/></svg></span><br>
-  <span class="project-item">webview_myket_video <svg width="20" height="20"><rect x="5" y="5" width="10" height="10" fill="#4285F4"><animate attributeName="height" from="10" to="15" dur="1s" repeatCount="indefinite"/></svg></span>
+  <span class="project-item">webview_myket_video <svg width="20" height="20"><rect x="5" y="5" width="10" height="10" fill="#4285F4"><animate attributeName="height" from="10" to="15" dur="1s" repeatCount="indefinite"/></svg></span><br>
+  <span class="project-item">PrivBrowse <svg width="20" height="20"><path d="M10 2 L18 10 L10 18 L2 10 Z" fill="none" stroke="#FF4500" stroke-width="2"><animate attributeName="stroke-opacity" from="0.3" to="1" dur="1.2s" repeatCount="indefinite"/></svg></span>
 </p>
 
 ## • پروژه‌های فورک و FOSS

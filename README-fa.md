@@ -88,8 +88,6 @@
 
 ## • مهارت‌ها و تکنولوژی‌ها
 
-## • مهارت‌ها و تکنولوژی‌ها
-
 <p align="center" dir="rtl">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" class="skill-icon" style="animation: pulse 2s infinite"/>
   <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white" class="skill-icon" style="animation: rotate 3s infinite linear"/>
@@ -98,26 +96,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" class="skill-icon" style="animation: rotate 4s infinite linear"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" class="skill-icon" style="animation: fade 2s infinite"/>
 </p>
-
-<style>
-.skill-icon {
-  margin: 5px;
-}
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-@keyframes rotate {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-@keyframes fade {
-  0% { opacity: 0.5; }
-  50% { opacity: 1; }
-  100% { opacity: 0.5; }
-}
-</style>
 
 ---
 
@@ -141,61 +119,3 @@
 - • هر وقت خواستی پیام بده یا همکاری پیشنهاد بده
 
 <p align="center"><b><span style="color: #FFD700">در مسیر آزادی دیجیتال، هیچ دیواری بلندتر از اراده نیست.</span></b></p>
-
-<style>
-.banner-animation {
-  position: relative;
-  animation: fadeIn 2s ease-in-out;
-}
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-.project-item {
-  display: inline-block;
-  margin: 5px;
-  animation: fadeInProject 1s ease-in-out;
-}
-@keyframes fadeInProject {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-.fork-item {
-  display: inline-block;
-  margin: 5px;
-  animation: wave 2s infinite;
-}
-@keyframes wave {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
-  100% { transform: translateY(0); }
-}
-.skill-icon {
-  margin: 5px;
-}
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-@keyframes rotate {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-@keyframes fade {
-  0% { opacity: 0.5; }
-  50% { opacity: 1; }
-  100% { opacity: 0.5; }
-}
-.type-animation {
-  opacity: 0;
-  animation: type 2s forwards;
-}
-@keyframes type {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-.type-animation:nth-child(2) { animation-delay: 0.5s; }
-.type-animation:nth-child(3) { animation-delay: 1s; }
-.type-animation:nth-child(4) { animation-delay: 1.5s; }
-</style>

@@ -99,25 +99,6 @@ Creating an advanced downloader project (Advanced.html) to reduce server purchas
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" class="skill-icon" style="animation: fade 2s infinite"/>
 </p>
 
-<style>
-.skill-icon {
-  margin: 5px;
-}
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-@keyframes rotate {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-@keyframes fade {
-  0% { opacity: 0.5; }
-  50% { opacity: 1; }
-  100% { opacity: 0.5; }
-}
-</style>
 
 ---
 

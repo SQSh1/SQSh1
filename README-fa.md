@@ -88,6 +88,8 @@
 
 ## • مهارت‌ها و تکنولوژی‌ها
 
+## • مهارت‌ها و تکنولوژی‌ها
+
 <p align="center" dir="rtl">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" class="skill-icon" style="animation: pulse 2s infinite"/>
   <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white" class="skill-icon" style="animation: rotate 3s infinite linear"/>
@@ -96,6 +98,26 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" class="skill-icon" style="animation: rotate 4s infinite linear"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" class="skill-icon" style="animation: fade 2s infinite"/>
 </p>
+
+<style>
+.skill-icon {
+  margin: 5px;
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@keyframes fade {
+  0% { opacity: 0.5; }
+  50% { opacity: 1; }
+  100% { opacity: 0.5; }
+}
+</style>
 
 ---
 

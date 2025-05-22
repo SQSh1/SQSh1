@@ -85,7 +85,8 @@
 </style>
 
 ## • پروژه Cromite فورک Bromite با تمرکز حریم خصوصی کاربر و تنظیمات کاربردی، تغییر Time Zone، تغییر User Agint, اعمال User Script, بلاک Ads
-### • https://github.com/bromite/bromite - https://github.com/uazo/cromite
+### • https://github.com/bromite/bromite 
+### • https://github.com/uazo/cromite
 
 ### • PrivBrowse
 مرورگری بر پایه‌ی Chromium با تمرکز بر امنیت، آزادی و تجربه‌ی ایرانی:

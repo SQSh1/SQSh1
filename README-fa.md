@@ -51,7 +51,7 @@
 
 ---
 
-## • پروژه‌های شخصی و فعال
+
 ## • پروژه‌های شخصی و فعال
 <p align="center">
   <span class="project-item">yt-dlp-link-maker <svg width="20" height="20"><path d="M10 2 L18 10 L10 18" fill="none" stroke="#1E90FF" stroke-width="2"><animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/></svg></span><br>
@@ -64,11 +64,25 @@
   <span class="project-item">PrivBrowse <svg width="20" height="20"><path d="M10 2 L18 10 L10 18 L2 10 Z" fill="none" stroke="#FF4500" stroke-width="2"><animate attributeName="stroke-opacity" from="0.3" to="1" dur="1.2s" repeatCount="indefinite"/></svg></span>
 </p>
 
+
 ## • پروژه‌های فورک و FOSS
 <p align="center">
   <span class="fork-item">oblivion <svg width="20" height="20"><path d="M5 10 Q10 5 15 10" fill="none" stroke="#FFD700" stroke-width="2"><animate attributeName="stroke-dasharray" from="0 20" to="20 20" dur="2s" repeatCount="indefinite"/></svg></span><br>
   <a href="https://github.com/bepass-org/oblivion">یکی از پروژه‌های درجه یک ایرانی و پر طرفدار</a>
 </p>
+
+<style>
+.fork-item {
+  display: inline-block;
+  margin: 5px;
+  animation: wave 2s infinite;
+}
+@keyframes wave {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+  100% { transform: translateY(0); }
+}
+</style>
 
 ## • پروژه Cromite فورک Bromite با تمرکز حریم خصوصی کاربر و تنظیمات کاربردی، تغییر Time Zone، تغییر User Agint, اعمال User Script, بلاک Ads
 ### • https://github.com/bromite/bromite - https://github.com/uazo/cromite

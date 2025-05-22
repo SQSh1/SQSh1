@@ -44,10 +44,11 @@
 ## • پروژه‌های فورک و FOSS
 ### • oblivion
 ## • یکی از پروژه‌های درجه یک ایرانی و پر طرفدار https://github.com/bepass-org/oblivion
-### • PrivBrowse
+
 ## • پروژه Cromite فورک Bromite با تمرکز حریم خصوصی کاربر و تنظیمات کاربردی، تغییر Time Zone، تغییر User Agint, اعمال User Script, بلاک Ads
 ### • https://github.com/bromite/bromite - https://github.com/uazo/cromite
 
+### • PrivBrowse
 مرورگری بر پایه‌ی Chromium با تمرکز بر امنیت، آزادی و تجربه‌ی ایرانی:
 
 - • امکان تغییر و شبیه‌سازی منطقه زمانی (Timezone)

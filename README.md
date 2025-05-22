@@ -70,7 +70,8 @@ Hello! I am <span style="color: #FFD700">SQ</span> — a professional developer 
 </p>
 
 ## • Cromite Project (Fork of Bromite) with a focus on user privacy and practical settings, Time Zone change, User Agent modification, User Script application, Ad blocking
-### • https://github.com/bromite/bromite - https://github.com/uazo/cromite
+### • https://github.com/bromite/bromite
+### • https://github.com/uazo/cromite
 
 ### • PrivBrowse
 A Chromium-based browser focused on security, freedom, and an Iranian experience:

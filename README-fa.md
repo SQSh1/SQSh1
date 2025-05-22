@@ -112,6 +112,7 @@
   <img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" class="skill-icon" style="animation: pulse 2.5s infinite"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" class="skill-icon" style="animation: rotate 4s infinite linear"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" class="skill-icon" style="animation: fade 2s infinite"/>
+  <img src="https://img.shields.io/badge/Server%20%26%20VM-6A0DAD?style=for-the-badge&logo=server&logoColor=white" class="skill-icon" style="animation: pulse 2s infinite"/>
 </p>
 
 ---

@@ -88,9 +88,7 @@ Creating an advanced downloader project (Advanced.html) to reduce server purchas
 
 ---
 
-## • Skills and Technologies
-
-## • مهارت‌ها و تکنولوژی‌ها
+## • Skills 
 
 <p align="center" dir="rtl">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" class="skill-icon" style="animation: pulse 2s infinite"/>

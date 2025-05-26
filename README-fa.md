@@ -77,7 +77,7 @@
 ### • https://github.com/bromite/bromite 
 ### • https://github.com/uazo/cromite
 
-### • PrivBrowse
+### • https://github.com/SQSh1/PrivBrowse
 مرورگری بر پایه‌ی Chromium با تمرکز بر امنیت، آزادی و تجربه‌ی ایرانی:
 
 - • امکان تغییر و شبیه‌سازی منطقه زمانی (Timezone)

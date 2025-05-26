@@ -71,18 +71,7 @@
   <a href="https://github.com/bepass-org/oblivion">یکی از پروژه‌های درجه یک ایرانی و پر طرفدار</a>
 </p>
 
-<style>
-.fork-item {
-  display: inline-block;
-  margin: 5px;
-  animation: wave 2s infinite;
-}
-@keyframes wave {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
-  100% { transform: translateY(0); }
-}
-</style>
+
 
 ## • پروژه Cromite فورک Bromite با تمرکز حریم خصوصی کاربر و تنظیمات کاربردی، تغییر Time Zone، تغییر User Agint, اعمال User Script, بلاک Ads
 ### • https://github.com/bromite/bromite 

@@ -73,7 +73,7 @@ Hello! I am <span style="color: #FFD700">SQ</span> — a professional developer 
 ### • https://github.com/bromite/bromite
 ### • https://github.com/uazo/cromite
 
-### • PrivBrowse
+### • https://github.com/SQSh1/PrivBrowse
 A Chromium-based browser focused on security, freedom, and an Iranian experience:
 
 - • Ability to change and simulate Timezone

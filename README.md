@@ -33,7 +33,7 @@
 Open-source software developer | Focused on Android customization | Passionate about FOSS and privacy | Solving sanctions issues for free resource access for Iranian users.
 Aiming to build free and practical tools | Most of my projects are on GitHub! Free download tools for YouTube, Instagram, and TikTok (yt-dlp), root modules and utilities for Android (Cromite, TelePro), kernel optimization (SQ-Kernel)| 
        
-<a href="[https://github.com/SQSh1/SQSh1](https://github.com/SQSh1/SQSh1/blob/main/README-fa.md)">[ Persian 🇮🇷 ]</a>
+<a href="https://github.com/SQSh1/SQSh1/blob/main/README-fa.md">[ Persian 🇮🇷 ]</a>
 </p>
 
 ---

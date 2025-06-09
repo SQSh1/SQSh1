@@ -110,7 +110,7 @@
 
 <p align="center" dir="rtl">
   <span class="type-animation">ایمیل کاری: <a href="mailto:developer.sqsh@gmail.com">developer.sqsh@gmail.com</a></span><br>
-  <span class="type-animation">LinkedIn: <a href="https://www.linkedin.com/in/sq-shabani">@SQ_Shabani</a> </span><br>
+  <span class="type-animation">لینکدین: <a href="https://www.linkedin.com/in/sq-shabani">@SQ_Shabani</a> </span><br>
   <span class="type-animation">وب‌سایت: در حال آماده‌سازی</span><br>
   <span class="type-animation">همکاری؟ فقط کافیه یه Pull Request قوی داشته باشی 💪</span>
 </p>

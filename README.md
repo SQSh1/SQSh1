@@ -107,7 +107,7 @@ Creating an advanced downloader project (Advanced.html) to reduce server purchas
 
 <p align="center" dir="ltr">
   <span class="type-animation">Work Email: <a href="mailto:developer.sqsh@gmail.com">developer.sqsh@gmail.com</a></span><br>
-  <span class="type-animation">Telegram: <a href="https://t.me/SQ_Shabani">@SQ_Shabani</a> *(to be activated if needed)*</span><br>
+  <span class="type-animation">LinkedIn: <a href="https://www.linkedin.com/in/sq-shabani">SQ_Shabani</a> *(to be activated if needed)*</span><br>
   <span class="type-animation">Website: Under construction</span><br>
   <span class="type-animation">Collaboration? Just submit a strong Pull Request 💪</span>
 </p>

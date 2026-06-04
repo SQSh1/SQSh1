@@ -28,8 +28,7 @@
   <img src="https://img.shields.io/badge/Other-۵٪-gray?style=flat-square"/>
 </p>
 
-<h1 align="center"> SQ — Developer of Root Power, Free Internet, and Digital Freedom</h1>
-<p align="center">
+
 Open-source software developer | Focused on Android customization | Passionate about FOSS and privacy | Solving sanctions issues for free resource access for Iranian users.
 Aiming to build free and practical tools | Most of my projects are on GitHub! Free download tools for YouTube, Instagram, and TikTok (yt-dlp), root modules and utilities for Android (Cromite, TelePro), kernel optimization (SQ-Kernel)| 
        
